@@ -1,5 +1,5 @@
 # NEAR_Uni
-### Near Certified Developer.
+###### Near Certified Developer.
 
 This file will take you through how I was able to set up my environment. This mostly included a lot of google.
 Ensure you have the right machine specifications. 
