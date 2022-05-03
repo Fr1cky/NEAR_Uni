@@ -1,4 +1,4 @@
-# NEAR_Uni
+# **NEAR_Uni**
 ###### Near Certified Developer.
 
 This file will take you through how I was able to set up my environment. This mostly included a lot of google.
