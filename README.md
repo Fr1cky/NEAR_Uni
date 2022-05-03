@@ -26,4 +26,4 @@ Then I installed the required softwares.
 - [x] vscode
 
 ## Assignment
-Assignment 1. Here we come
+Assignment 1. Here I come
