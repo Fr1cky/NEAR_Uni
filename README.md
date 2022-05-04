@@ -26,4 +26,6 @@ Then install the required softwares.
 - [x] vscode
 
 ## Assignment
-Assignment 1. Done.
+
+
+![Done.](https://github.com/Fr1cky/NEAR_Uni/blob/main/myToken/myToken/img/Near1.png)
