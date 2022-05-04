@@ -12,7 +12,7 @@
 
  [`nodejs`](https://nodejs.org/en/)
  >
- ['yarn'](https://yarnpkg.com/cli/install)
+ [`yarn`](https://yarnpkg.com/cli/install)
  >
  [`npm`](https://www.npmjs.com/package/npm)
 
