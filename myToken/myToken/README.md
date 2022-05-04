@@ -7,6 +7,12 @@
 
  [openzeppelin_github](https://github.com/OpenZeppelin/openzeppelin-contracts)
 
+ ### working with ganache cli
+
+ [`nodejs`](https://nodejs.org/en/)
+ ['yarn'](https://yarnpkg.com/cli/install)
+ [`npm`](https://www.npmjs.com/package/npm)
+
 
 - [x] name
 - [x] Initial supply
