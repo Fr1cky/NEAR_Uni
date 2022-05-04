@@ -1,4 +1,4 @@
-#add an account function and copy and paste from previous examples.
+# add an account function and copy and paste from previous examples.
 # - [ ] learn how to set this up.
 
 from brownie import accounts, network, config
@@ -17,7 +17,7 @@ def get_account(index=None, id=None):
         return accounts[index]
     if network.show_active() in LOCAL_BLOCKCHAIN_ENVIRONMENTS:
         print(accounts[0].balance())
-        return accounts[0]
+         return accounts[0]
     if id:
         return accounts.load(id)
     return accounts.add(config["wallets"]["from_key"])
