@@ -1,6 +1,0 @@
-# myToken
-
-- [ ] name
-- [ ] supply
-- [ ] details
-
